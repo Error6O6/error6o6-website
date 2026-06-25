@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://srijan-open.github.io/error6o6-website/sitemap.xml
+Sitemap: https://error6o6.github.io/error6o6-website/sitemap.xml
